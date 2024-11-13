@@ -52,7 +52,10 @@ Getting error of not enough memory to perform this attack.
 
 ## E). How can you make a password that's protected against a dictionary attack?
 Add special Characters, Numbers, and Symbols
+
 Avoid Common Words and Patterns
+
 Use Passphrases
+
 Utilize a Password Manager
 
