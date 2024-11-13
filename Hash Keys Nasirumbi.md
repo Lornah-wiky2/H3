@@ -51,8 +51,8 @@ Getting error of not enough memory to perform this attack.
 ![dictionary attack error](https://github.com/user-attachments/assets/fb50d424-b302-4d58-9bb1-305742a75e82)
 
 ## E). How can you make a password that's protected against a dictionary attack?
- Password managers are generally considered safe and are recommended by cybersecurity experts as an effective way to manage and secure passwords. 
- They work by encrypting and storing your passwords in a secure vault, which can only be accessed with a master password. 
- Most password managers use strong encryption methods like AES-256 and employ zero-knowledge architecture, meaning even the provider cannot access your data. 
- To maximize security, it's crucial to use a strong, unique master password and enable multi-factor authentication. 
- While no system is 100% secure, the benefits of using a password manager far outweigh the risks of not using one, as they allow you to create and use strong, unique passwords for each account without having to remember them all.
+Add special Characters, Numbers, and Symbols
+Avoid Common Words and Patterns
+Use Passphrases
+Utilize a Password Manager
+
