@@ -51,11 +51,11 @@ Getting error of not enough memory to perform this attack.
 ![dictionary attack error](https://github.com/user-attachments/assets/fb50d424-b302-4d58-9bb1-305742a75e82)
 
 ## E). How can you make a password that's protected against a dictionary attack?
-Add special Characters, Numbers, and Symbols
+- Add special Characters, Numbers, and Symbols
 
-Avoid Common Words and Patterns
+- Avoid Common Words and Patterns
 
-Use Passphrases
+- Use Passphrases
 
-Utilize a Password Manager
+- Utilize a Password Manager
 
